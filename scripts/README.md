@@ -1,0 +1,1 @@
+#### The scripts in this repo do require some additional modifications to make them work in a particular computing environment, but will become more generalizable. For example, both `align_step.sh` and `joint_calling.sh` need the user to define the reference file. Additionally, `align_step.sh` is parallelizable (see https://github.com/peterdfields/parallel_snippets)
